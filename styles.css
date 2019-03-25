@@ -1,0 +1,40 @@
+body {
+  font-family: "Kanit", sans-serif;
+  margin: 0%;
+  background-color: rgb(216, 216, 216);
+}
+
+.topnav {
+  font-family: "NTR", sans-serif;
+  max-width: 100%;
+  background-color: rgb(182, 182, 182);
+  padding: 1px;
+  /* float: left; */
+  /* position: fixed; */
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  padding-right: 20px;
+}
+
+#f1 {
+  max-width: 200%;
+}
+
+#milky {
+  text-align: justify;
+  width: 800px;
+}
+
+#f1 {
+  max-width: 100%;
+}
+
+#planets {
+  float: right;
+  width: 500px;
+  text-align: justify;
+}
